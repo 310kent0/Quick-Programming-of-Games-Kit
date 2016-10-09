@@ -1,0 +1,4 @@
+m message001.txt
+g message002.txt hoge
+i hoge 1 script001.txt
+i hoge 2 script002.txt

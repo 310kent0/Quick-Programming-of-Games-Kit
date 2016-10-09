@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+#messageBox {
+	width: 700px;
+	height: 300px;
+}
+
+#buttonList {
+	list-style: none;
+	overflow: hidden;
+}
+
+#buttonList li {
+	float: left;
+}
+
